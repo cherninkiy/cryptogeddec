@@ -1,0 +1,2 @@
+# cryptogeddec
+t.me/cryptogeddec
