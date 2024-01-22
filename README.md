@@ -1,2 +1,6 @@
-# cryptogeddec
-t.me/cryptogeddec
+# Криптогеддец
+
+Про квантовые вычисления и весь тот криптогеддец, которым они грозят
+
+Подписаться: [t.me/cryptogeddec](https://t.me/cryptogeddec)
+
